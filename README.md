@@ -1,6 +1,5 @@
 - Buenas, soy Uriel, aunque mi nombre de usuario es @Xpartiel :)
-- De momento estoy aprendiendo lo referente a las Ciencias de la Computación (UNAM)
-- Si necesitas contactarme, intentalo con un Correo a "xparting@ciencias.unam.mx", o un mensaje directo a mis redes sociales si es que eres un conocido mío.
+- Continúo aprendiendo lo referente a las Ciencias de la Computación en la UNAM
 
 <!---
 Xpartiel/Xpartiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
